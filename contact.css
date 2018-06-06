@@ -1,0 +1,114 @@
+#nav1,
+#nav2,
+#nav3,
+#nav4,
+#nav5{
+		
+		height:40px;
+		width:20%;
+		background-color:black;
+		float:left;
+		text-align:center;
+		font-size:15px;
+		
+}
+
+#nav1:hover,
+#nav2:hover,
+#nav3:hover,
+#nav4:hover,
+#nav5:hover{
+
+			background-color:red;
+			color:white:
+}
+
+#header1{
+
+		 height:200px;
+		 width:25%;
+		 background-color:red;
+		 float:left;
+		 color:white;
+		 text-align:center;
+		 
+}
+
+#header2{
+
+ 		 height:200px;
+		 width:25%;
+		 float:right;
+		 background-color:black;
+		 color:white;
+		 text-align:center;
+		 
+}
+
+#header3{
+
+		 height:200px;
+		 float:right;
+		 width:25%;
+		 background-color:red;
+		 color:white;
+		 text-align:center;
+}
+
+#header4{
+
+		 height:200px;
+		 float:right;
+		 width:25%;
+		 background-color:black;
+		 color:white;
+		 text-align:center;
+}
+
+.name{
+
+	  font-size:50px;
+	  color:red;
+}
+
+.lname{
+
+	   font-size:50px;
+	   color:white;
+}
+
+.llname{
+			color:black;
+			font-size:50px;
+}
+.contact{
+				text-align:left;
+}
+.us{
+	font-size:30px;
+}
+
+#snapdeal,
+#ebay,
+#magneto,
+#amazon,
+#shopify,
+#tolexo,
+#flipkart,
+#naaptol,
+#paytm{
+
+		 float:left;
+		 padding:2cm 2cm 0cm 0cm;
+}
+
+#footer{
+
+	    background:black;
+	    color:white;
+}
+
+#map{
+			text-align:left;
+			font-size:20px;
+}

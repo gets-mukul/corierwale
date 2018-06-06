@@ -1,0 +1,19 @@
+table,th,td{
+	text-align:center;
+	padding: 15px;
+		} 
+		
+#Header{
+	height:900px;
+	border-color:red;
+}
+
+#Nav{
+	height:30px;
+	border-color:blue;
+}
+
+#Logo{
+	height:100px;
+	border-color:green;
+}
